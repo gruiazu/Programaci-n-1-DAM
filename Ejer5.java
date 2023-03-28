@@ -1,6 +1,7 @@
-package JAVA.Capitulo7;
+package Capitulo7;
 import java.util.Scanner;
 public class Ejer5 {
+
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
         int[] num=new int[10];
@@ -13,8 +14,6 @@ public class Ejer5 {
         i=0;
         while (i<10) {
             System.out.println("");
-            i++;
         }
-   
     }
 }
